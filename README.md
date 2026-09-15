@@ -59,14 +59,12 @@ I especially enjoy building systems where architecture, maintainability, and bus
 ![REST API](https://img.shields.io/badge/REST%20API-0F172A?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Frontend
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
@@ -74,19 +72,6 @@ I especially enjoy building systems where architecture, maintainability, and bus
 ---
 
 ## Featured Projects
-
-### NovaCart Marketplace
-[![Repo](https://img.shields.io/badge/Repository-Open-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/TechSageHub/ecommerce-marketplace-app)
-[![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Express%20%7C%20MySQL%20%7C%20Tailwind-F68B1E?style=flat-square)](https://github.com/TechSageHub/ecommerce-marketplace-app)
-
-A full-stack e-commerce marketplace application built with React, Express, MySQL, and Tailwind CSS.
-
-**Highlights**
-- customer authentication and account flow
-- wishlist, cart, checkout, and order tracking
-- admin dashboard with product CRUD and order management
-- raw SQL with MySQL
-- marketplace-style UI built for portfolio presentation
 
 ### Staff Hub System
 [![Repo](https://img.shields.io/badge/Repository-Open-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/TechSageHub/Staff-Hub-System)
@@ -100,20 +85,6 @@ An MVC-based staff management system focused on administrative workflows and str
 - practical backend-driven application design
 - suitable for demonstrating full-stack .NET fundamentals
 
-### Sasham Catering Service Website
-[![Repo](https://img.shields.io/badge/Repository-Open-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/TechSageHub/Sasham-Catering-Service-Website)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-16A34A?style=flat-square&logo=vercel&logoColor=white)](https://sasham-catering-service-website.vercel.app/)
-[![Stack](https://img.shields.io/badge/Stack-Frontend%20Website%20Project-F59E0B?style=flat-square)](https://github.com/TechSageHub/Sasham-Catering-Service-Website)
-
-A frontend-focused catering business website built to present services clearly and professionally.
-
-**Highlights**
-- responsive business website design
-- service-focused UI presentation
-- frontend implementation for a real brand presence
-- useful for showing practical UI delivery skills
-
-
 ---
 
 ## Professional Experience
@@ -125,14 +96,6 @@ A frontend-focused catering business website built to present services clearly a
 - Building enterprise-ready applications with a strong `.NET` backend focus
 - Working on scalable backend logic, maintainable systems, and product delivery
 - Contributing to private professional projects involving business workflows and structured application design
-
-### MGQS IT Research Lab
-**Full Stack Software Developer**  
-`2024 - 2025`
-
-- Developed internal systems for automation and centralized administration
-- Contributed to QR-based workflow solutions and operational software
-- Helped improve business efficiency through full-stack application development
 
 ---
 
